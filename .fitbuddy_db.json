@@ -1,0 +1,1012 @@
+[
+  {
+    "userId": "FB-121993",
+    "email": "sdgsasaub@gmail.com",
+    "fullName": "sridhar",
+    "age": "19",
+    "height": "169",
+    "weight": "45",
+    "gender": "Male",
+    "fitnessGoal": "Muscle Building & Hypertrophy",
+    "fitnessLevel": "Beginner",
+    "planDays": 2,
+    "workoutLocation": "Commercial Gym (Full Equipment, Barbells, Machines)",
+    "dietaryPreference": "High Protein Focus",
+    "injuriesLimitations": "",
+    "activityLevel": "Sedentary (Desk job, minimal daily movement)",
+    "sleepHours": "Under 6 hours",
+    "createdAt": "2026-09-26T10:38:41.994Z",
+    "updatedAt": "2026-09-26T10:38:41.994Z",
+    "originalPlan": {
+      "title": "2-Day Personalized Routine (Muscle Building & Hypertrophy)",
+      "totalDays": 2,
+      "weeklySplit": "2-Day targeted split designed for Muscle Building & Hypertrophy at an Beginner level.",
+      "overview": "Custom-calibrated 2-day fitness plan for sridhar, targeting Muscle Building & Hypertrophy. Structured with safe progressive overload, targeted warm-ups, and mobility cool-downs.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayName": "Day 1: Chest, Upper Back & Shoulders",
+          "focus": "Chest, Upper Back & Shoulders",
+          "durationMinutes": 45,
+          "warmup": "5 mins arm swings, dynamic chest openers, cat-cow and band pulls",
+          "exercises": [
+            {
+              "name": "Dumbbell or Machine Chest Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Triceps",
+              "notes": "Maintain control on the descent"
+            },
+            {
+              "name": "Seated Cable or Dumbbell Row",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back & Lats",
+              "notes": "Squeeze shoulder blades at peak"
+            },
+            {
+              "name": "Overhead Dumbbell Shoulder Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Deltoids",
+              "notes": "Keep core engaged"
+            },
+            {
+              "name": "Incline Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "45s",
+              "targetMuscle": "Biceps"
+            }
+          ],
+          "cooldown": "Doorway chest stretch, cross-body shoulder hold, overhead triceps stretch (5 mins)",
+          "estimatedCaloriesBurned": 320
+        },
+        {
+          "dayNumber": 2,
+          "dayName": "Day 2: Quadriceps, Hamstrings & Glutes",
+          "focus": "Quadriceps, Hamstrings & Glutes",
+          "durationMinutes": 45,
+          "warmup": "5 mins leg swings, bodyweight air squats, hip 90/90 mobility drill",
+          "exercises": [
+            {
+              "name": "Goblet Squats or Barbell Squats",
+              "sets": 4,
+              "reps": "10 reps",
+              "rest": "75s",
+              "targetMuscle": "Quads & Glutes",
+              "notes": "Maintain chest up and feet flat"
+            },
+            {
+              "name": "Romanian Dumbbell Deadlifts",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Hamstrings & Posterior Chain",
+              "notes": "Hinge at the hips with soft knees"
+            },
+            {
+              "name": "Walking Lunges or Step-Ups",
+              "sets": 3,
+              "reps": "10 steps/leg",
+              "rest": "60s",
+              "targetMuscle": "Legs & Core Balance"
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Calves"
+            }
+          ],
+          "cooldown": "Standing quad stretch, seated hamstring stretch, butterfly stretch",
+          "estimatedCaloriesBurned": 350
+        }
+      ],
+      "tipsForSuccess": [
+        "Focus on steady consistency: aim to complete each of your selected workout days.",
+        "Stay well-hydrated throughout the day and listen to your body signals.",
+        "Maintain proper form on every repetition before considering increasing weight."
+      ]
+    },
+    "nutritionTip": {
+      "title": "Nutrition Strategy for Muscle Building & Hypertrophy",
+      "coreAdvice": "Align your daily nutrition with your routine. For Muscle Building & Hypertrophy, focus on whole foods, steady protein intake, and consistent hydration. Dietary preference: High Protein Focus.",
+      "proteinRecommendation": "Aim for 1.4 to 1.8 grams of protein per kilogram of body weight spread across 3-4 meals to preserve and recover muscle fibers.",
+      "hydrationTip": "Drink 2.5 to 3 Liters of water daily. Keep a water bottle close during workouts and replenish with an extra 500ml on training days.",
+      "mealTiming": "Consume a light, carbohydrate-rich snack 45-60 minutes before training, and enjoy a balanced protein + complex carb meal within 90 minutes post-workout.",
+      "recoveryNote": "Target 7 to 8 hours of quality sleep nightly to optimize hormonal recovery and tissue repair.",
+      "suggestedFoods": [
+        "Lean Poultry or Fish",
+        "Eggs / Tofu",
+        "Greek Yogurt",
+        "Oatmeal",
+        "Berries",
+        "Quinoa",
+        "Leafy Greens",
+        "Almonds"
+      ]
+    },
+    "feedbackHistory": []
+  },
+  {
+    "userId": "FB-274372",
+    "email": "samtaylor@example.com",
+    "fullName": "Sam Taylor",
+    "age": "26",
+    "height": "172 cm",
+    "weight": "68 kg",
+    "gender": "Female",
+    "fitnessGoal": "Toning & Body Sculpting",
+    "fitnessLevel": "Beginner",
+    "planDays": 3,
+    "workoutLocation": "Home Gym (Dumbbells & Resistance Bands)",
+    "dietaryPreference": "Vegetarian",
+    "injuriesLimitations": "None",
+    "activityLevel": "Lightly Active",
+    "sleepHours": "7-8 hours",
+    "createdAt": "2026-09-26T08:28:02.667Z",
+    "updatedAt": "2026-09-26T08:28:02.667Z",
+    "originalPlan": {
+      "title": "3-Day Home Toning & Sculpting Program",
+      "weeklySplit": "Full Body Alternating Split (e.g., Monday, Wednesday, Friday)",
+      "overview": "A beginner-friendly, 3-day full-body resistance training plan designed for Sam to build lean muscle tone, enhance core stability, and sculpt the entire body using dumbbells and resistance bands at home.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayName": "Full Body Sculpt: Lower Body & Push Focus",
+          "focus": "Quadriceps, Glutes, Chest, Shoulders, and Core",
+          "durationMinutes": 45,
+          "warmup": "5 minutes of light cardio (marching in place, arm circles, leg swings, and bodyweight squats)",
+          "cooldown": "5 minutes of static stretching focusing on quads, chest, and hip flexors",
+          "exercises": [
+            {
+              "name": "Goblet Squat",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60 sec",
+              "targetMuscle": "Quadriceps & Glutes",
+              "notes": "Hold one dumbbell vertically at chest level; maintain an upright torso."
+            },
+            {
+              "name": "Dumbbell Floor Press",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60 sec",
+              "targetMuscle": "Chest & Triceps",
+              "notes": "Lie flat on the floor with knees bent; press dumbbells up smoothly."
+            },
+            {
+              "name": "Resistance Band Glute Bridges",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "45 sec",
+              "targetMuscle": "Glutes & Hamstrings",
+              "notes": "Place mini-band just above knees; squeeze glutes at the top."
+            },
+            {
+              "name": "Dumbbell Overhead Shoulder Press",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60 sec",
+              "targetMuscle": "Shoulders",
+              "notes": "Perform seated or standing; keep core braced without arching the lower back."
+            },
+            {
+              "name": "Plank with Shoulder Taps",
+              "sets": 3,
+              "reps": "10 per side",
+              "rest": "45 sec",
+              "targetMuscle": "Core",
+              "notes": "Keep hips as still as possible while tapping opposite shoulders."
+            }
+          ],
+          "estimatedCaloriesBurned": 220,
+          "isRestDay": false
+        },
+        {
+          "dayNumber": 2,
+          "dayName": "Full Body Sculpt: Posterior Chain & Pull Focus",
+          "focus": "Hamstrings, Glutes, Upper Back, Biceps, and Abs",
+          "durationMinutes": 45,
+          "warmup": "5 minutes of dynamic mobility (cat-cow stretches, bird-dogs, inchworms, and torso twists)",
+          "cooldown": "5 minutes of static stretching focusing on hamstrings, latissimus dorsi, and glutes",
+          "exercises": [
+            {
+              "name": "Dumbbell Romanian Deadlift",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60 sec",
+              "targetMuscle": "Hamstrings & Glutes",
+              "notes": "Hinge at hips with soft knees; keep spine neutral and dumbbells close to shins."
+            },
+            {
+              "name": "Bent-Over Dumbbell Rows",
+              "sets": 3,
+              "reps": "10-12",
+              "rest": "60 sec",
+              "targetMuscle": "Upper Back & Lats",
+              "notes": "Pull elbows toward hips and squeeze shoulder blades together."
+            },
+            {
+              "name": "Resistance Band Lateral Band Walks",
+              "sets": 3,
+              "reps": "12 per direction",
+              "rest": "45 sec",
+              "targetMuscle": "Gluteus Medius",
+              "notes": "Place band around ankles or above knees; stay in a quarter-squat stance."
+            },
+            {
+              "name": "Standing Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "45 sec",
+              "targetMuscle": "Biceps",
+              "notes": "Control the descent; avoid swinging elbows forward."
+            },
+            {
+              "name": "Deadbugs",
+              "sets": 3,
+              "reps": "10 per side",
+              "rest": "45 sec",
+              "targetMuscle": "Core & Transverse Abdominis",
+              "notes": "Keep lower back pressed firmly into the floor throughout."
+            }
+          ],
+          "estimatedCaloriesBurned": 210,
+          "isRestDay": false
+        },
+        {
+          "dayNumber": 3,
+          "dayName": "Full Body Sculpt & Conditioning",
+          "focus": "Total Body Toning, Core Stability, and Muscular Endurance",
+          "durationMinutes": 40,
+          "warmup": "5 minutes of dynamic warm-up (jumping jacks, high knees, hip openers, and bodyweight lunges)",
+          "cooldown": "5 minutes of full body stretching and deep breathing exercises",
+          "exercises": [
+            {
+              "name": "Dumbbell Reverse Lunges",
+              "sets": 3,
+              "reps": "10 per leg",
+              "rest": "60 sec",
+              "targetMuscle": "Quadriceps & Glutes",
+              "notes": "Step backward and lower hips until front thigh is parallel to floor."
+            },
+            {
+              "name": "Resistance Band Lat Pulldowns",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "45 sec",
+              "targetMuscle": "Back & Lats",
+              "notes": "Anchor band overhead; pull down towards collarbones squeezing shoulder blades."
+            },
+            {
+              "name": "Dumbbell Lateral Raises",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "45 sec",
+              "targetMuscle": "Lateral Deltoids",
+              "notes": "Use lighter weights; lead with elbows and raise to shoulder height."
+            },
+            {
+              "name": "Overhead Dumbbell Tricep Extension",
+              "sets": 3,
+              "reps": "12-15",
+              "rest": "45 sec",
+              "targetMuscle": "Triceps",
+              "notes": "Keep elbows tucked close to head; lower weight behind head smoothly."
+            },
+            {
+              "name": "Resistance Band Pallof Press",
+              "sets": 3,
+              "reps": "10 per side",
+              "rest": "45 sec",
+              "targetMuscle": "Rotational Core & Obliques",
+              "notes": "Press band straight out in front of chest while resisting torso rotation."
+            }
+          ],
+          "estimatedCaloriesBurned": 200,
+          "isRestDay": false
+        }
+      ],
+      "tipsForSuccess": [
+        "Prioritize vegetarian protein sources such as tofu, tempeh, Greek yogurt, lentils, and protein shakes to hit around 1.4-1.6g of protein per kg of body weight for optimal toning.",
+        "Focus on progressive overload by gradually increasing dumbbell weight or band tension as movements become easier over time.",
+        "Schedule at least one rest or light recovery day (walking, gentle yoga) between each workout day to allow muscles to repair and tone."
+      ],
+      "totalDays": 3
+    },
+    "nutritionTip": {
+      "title": "Nutrition Strategy for Toning & Body Sculpting",
+      "coreAdvice": "Align your daily nutrition with your routine. For Toning & Body Sculpting, focus on whole foods, steady protein intake, and consistent hydration. Dietary preference: Vegetarian.",
+      "proteinRecommendation": "Aim for 1.4 to 1.8 grams of protein per kilogram of body weight spread across 3-4 meals to preserve and recover muscle fibers.",
+      "hydrationTip": "Drink 2.5 to 3 Liters of water daily. Keep a water bottle close during workouts and replenish with an extra 500ml on training days.",
+      "mealTiming": "Consume a light, carbohydrate-rich snack 45-60 minutes before training, and enjoy a balanced protein + complex carb meal within 90 minutes post-workout.",
+      "recoveryNote": "Target 7 to 8 hours of quality sleep nightly to optimize hormonal recovery and tissue repair.",
+      "suggestedFoods": [
+        "Lean Poultry or Fish",
+        "Eggs / Tofu",
+        "Greek Yogurt",
+        "Oatmeal",
+        "Berries",
+        "Quinoa",
+        "Leafy Greens",
+        "Almonds"
+      ]
+    },
+    "feedbackHistory": []
+  },
+  {
+    "userId": "FB-747732",
+    "email": "user@example.com",
+    "fullName": "Jordan Smith",
+    "age": "28",
+    "height": "180 cm",
+    "weight": "75 kg",
+    "gender": "Male",
+    "fitnessGoal": "Muscle Gain & Strength",
+    "fitnessLevel": "Intermediate",
+    "planDays": 4,
+    "workoutLocation": "Commercial Gym",
+    "dietaryPreference": "High Protein",
+    "injuriesLimitations": "None",
+    "activityLevel": "Moderately Active (3-4 days/wk)",
+    "sleepHours": "7-8 hours",
+    "createdAt": "2026-09-26T08:19:13.109Z",
+    "updatedAt": "2026-09-26T08:19:13.109Z",
+    "originalPlan": {
+      "title": "4-Day Personalized Routine (Muscle Gain & Strength)",
+      "totalDays": 4,
+      "weeklySplit": "4-Day targeted split designed for Muscle Gain & Strength at an Intermediate level.",
+      "overview": "Custom-calibrated 4-day fitness plan for Jordan Smith, targeting Muscle Gain & Strength. Structured with safe progressive overload, targeted warm-ups, and mobility cool-downs.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayName": "Day 1: Chest, Upper Back & Shoulders",
+          "focus": "Chest, Upper Back & Shoulders",
+          "durationMinutes": 45,
+          "warmup": "5 mins arm swings, dynamic chest openers, cat-cow and band pulls",
+          "exercises": [
+            {
+              "name": "Dumbbell or Machine Chest Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Triceps",
+              "notes": "Maintain control on the descent"
+            },
+            {
+              "name": "Seated Cable or Dumbbell Row",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back & Lats",
+              "notes": "Squeeze shoulder blades at peak"
+            },
+            {
+              "name": "Overhead Dumbbell Shoulder Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Deltoids",
+              "notes": "Keep core engaged"
+            },
+            {
+              "name": "Incline Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "45s",
+              "targetMuscle": "Biceps"
+            }
+          ],
+          "cooldown": "Doorway chest stretch, cross-body shoulder hold, overhead triceps stretch (5 mins)",
+          "estimatedCaloriesBurned": 320
+        },
+        {
+          "dayNumber": 2,
+          "dayName": "Day 2: Quadriceps, Hamstrings & Glutes",
+          "focus": "Quadriceps, Hamstrings & Glutes",
+          "durationMinutes": 45,
+          "warmup": "5 mins leg swings, bodyweight air squats, hip 90/90 mobility drill",
+          "exercises": [
+            {
+              "name": "Goblet Squats or Barbell Squats",
+              "sets": 4,
+              "reps": "10 reps",
+              "rest": "75s",
+              "targetMuscle": "Quads & Glutes",
+              "notes": "Maintain chest up and feet flat"
+            },
+            {
+              "name": "Romanian Dumbbell Deadlifts",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Hamstrings & Posterior Chain",
+              "notes": "Hinge at the hips with soft knees"
+            },
+            {
+              "name": "Walking Lunges or Step-Ups",
+              "sets": 3,
+              "reps": "10 steps/leg",
+              "rest": "60s",
+              "targetMuscle": "Legs & Core Balance"
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Calves"
+            }
+          ],
+          "cooldown": "Standing quad stretch, seated hamstring stretch, butterfly stretch",
+          "estimatedCaloriesBurned": 350
+        },
+        {
+          "dayNumber": 3,
+          "dayName": "Day 3: Aerobic Base, Heart Health & Deep Core",
+          "focus": "Aerobic Base, Heart Health & Deep Core",
+          "durationMinutes": 40,
+          "warmup": "Light jogging in place, high knees, inchworms (4 mins)",
+          "exercises": [
+            {
+              "name": "Interval Cardio (Brisk Walk, Jog, Cycle or Row)",
+              "sets": 5,
+              "reps": "2 mins active / 1 min easy",
+              "rest": "60s",
+              "targetMuscle": "Cardiorespiratory"
+            },
+            {
+              "name": "Dead Bug Core Holds",
+              "sets": 3,
+              "reps": "10 reps/side",
+              "rest": "45s",
+              "targetMuscle": "Transverse Abdominis"
+            },
+            {
+              "name": "Bird Dog with Pause",
+              "sets": 3,
+              "reps": "10 reps/side",
+              "rest": "45s",
+              "targetMuscle": "Lower Back & Glutes"
+            },
+            {
+              "name": "Side Plank Holds",
+              "sets": 3,
+              "reps": "30s/side",
+              "rest": "30s",
+              "targetMuscle": "Obliques"
+            }
+          ],
+          "cooldown": "Child’s pose, cobra stretch, standing side reaches",
+          "estimatedCaloriesBurned": 310
+        },
+        {
+          "dayNumber": 4,
+          "dayName": "Day 4: Muscular Endurance & Dynamic Balance",
+          "focus": "Muscular Endurance & Dynamic Balance",
+          "durationMinutes": 45,
+          "warmup": "Arm circles, hip rotations, bodyweight lunges",
+          "exercises": [
+            {
+              "name": "Dumbbell Thrusters (Squat to Press)",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "60s",
+              "targetMuscle": "Full Body"
+            },
+            {
+              "name": "Push-Ups (Standard or Incline)",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Core"
+            },
+            {
+              "name": "Dumbbell Bent-Over Row",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back"
+            },
+            {
+              "name": "Plank with Shoulder Taps",
+              "sets": 3,
+              "reps": "30 seconds",
+              "rest": "45s",
+              "targetMuscle": "Core Stability"
+            }
+          ],
+          "cooldown": "Hamstring stretch, quad stretch, full body relaxing breaths",
+          "estimatedCaloriesBurned": 340
+        }
+      ],
+      "tipsForSuccess": [
+        "Focus on steady consistency: aim to complete each of your selected workout days.",
+        "Stay well-hydrated throughout the day and listen to your body signals.",
+        "Maintain proper form on every repetition before considering increasing weight."
+      ]
+    },
+    "nutritionTip": {
+      "title": "Nutrition Strategy for Muscle Gain & Strength",
+      "coreAdvice": "Align your daily nutrition with your routine. For Muscle Gain & Strength, focus on whole foods, steady protein intake, and consistent hydration. Dietary preference: High Protein.",
+      "proteinRecommendation": "Aim for 1.4 to 1.8 grams of protein per kilogram of body weight spread across 3-4 meals to preserve and recover muscle fibers.",
+      "hydrationTip": "Drink 2.5 to 3 Liters of water daily. Keep a water bottle close during workouts and replenish with an extra 500ml on training days.",
+      "mealTiming": "Consume a light, carbohydrate-rich snack 45-60 minutes before training, and enjoy a balanced protein + complex carb meal within 90 minutes post-workout.",
+      "recoveryNote": "Target 7 to 8 hours of quality sleep nightly to optimize hormonal recovery and tissue repair.",
+      "suggestedFoods": [
+        "Lean Poultry or Fish",
+        "Eggs / Tofu",
+        "Greek Yogurt",
+        "Oatmeal",
+        "Berries",
+        "Quinoa",
+        "Leafy Greens",
+        "Almonds"
+      ]
+    },
+    "feedbackHistory": []
+  },
+  {
+    "userId": "FB-581059",
+    "email": "mkgccy45@gmail.com",
+    "fullName": "Kyotaka",
+    "age": "19",
+    "height": "175",
+    "weight": "76",
+    "gender": "",
+    "fitnessGoal": "Weight Loss & Fat Burn",
+    "fitnessLevel": "Advanced",
+    "planDays": 7,
+    "workoutLocation": "Commercial Gym (Full Equipment, Barbells, Machines)",
+    "dietaryPreference": "No restrictions (Balanced Whole Foods)",
+    "injuriesLimitations": "no",
+    "activityLevel": "Lightly Active (Occasional walks, light standing)",
+    "sleepHours": "Under 6 hours",
+    "createdAt": "2026-09-26T08:16:21.152Z",
+    "updatedAt": "2026-09-26T08:16:21.152Z",
+    "originalPlan": {
+      "title": "7-Day Personalized Routine (Weight Loss & Fat Burn)",
+      "totalDays": 7,
+      "weeklySplit": "7-Day targeted split designed for Weight Loss & Fat Burn at an Advanced level.",
+      "overview": "Custom-calibrated 7-day fitness plan for Kyotaka, targeting Weight Loss & Fat Burn. Structured with safe progressive overload, targeted warm-ups, and mobility cool-downs.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayName": "Day 1: Chest, Upper Back & Shoulders",
+          "focus": "Chest, Upper Back & Shoulders",
+          "durationMinutes": 45,
+          "warmup": "5 mins arm swings, dynamic chest openers, cat-cow and band pulls",
+          "exercises": [
+            {
+              "name": "Dumbbell or Machine Chest Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Triceps",
+              "notes": "Maintain control on the descent"
+            },
+            {
+              "name": "Seated Cable or Dumbbell Row",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back & Lats",
+              "notes": "Squeeze shoulder blades at peak"
+            },
+            {
+              "name": "Overhead Dumbbell Shoulder Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Deltoids",
+              "notes": "Keep core engaged"
+            },
+            {
+              "name": "Incline Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "45s",
+              "targetMuscle": "Biceps"
+            }
+          ],
+          "cooldown": "Doorway chest stretch, cross-body shoulder hold, overhead triceps stretch (5 mins)",
+          "estimatedCaloriesBurned": 320
+        },
+        {
+          "dayNumber": 2,
+          "dayName": "Day 2: Quadriceps, Hamstrings & Glutes",
+          "focus": "Quadriceps, Hamstrings & Glutes",
+          "durationMinutes": 45,
+          "warmup": "5 mins leg swings, bodyweight air squats, hip 90/90 mobility drill",
+          "exercises": [
+            {
+              "name": "Goblet Squats or Barbell Squats",
+              "sets": 4,
+              "reps": "10 reps",
+              "rest": "75s",
+              "targetMuscle": "Quads & Glutes",
+              "notes": "Maintain chest up and feet flat"
+            },
+            {
+              "name": "Romanian Dumbbell Deadlifts",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Hamstrings & Posterior Chain",
+              "notes": "Hinge at the hips with soft knees"
+            },
+            {
+              "name": "Walking Lunges or Step-Ups",
+              "sets": 3,
+              "reps": "10 steps/leg",
+              "rest": "60s",
+              "targetMuscle": "Legs & Core Balance"
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Calves"
+            }
+          ],
+          "cooldown": "Standing quad stretch, seated hamstring stretch, butterfly stretch",
+          "estimatedCaloriesBurned": 350
+        },
+        {
+          "dayNumber": 3,
+          "dayName": "Day 3: Aerobic Base, Heart Health & Deep Core",
+          "focus": "Aerobic Base, Heart Health & Deep Core",
+          "durationMinutes": 40,
+          "warmup": "Light jogging in place, high knees, inchworms (4 mins)",
+          "exercises": [
+            {
+              "name": "Interval Cardio (Brisk Walk, Jog, Cycle or Row)",
+              "sets": 5,
+              "reps": "2 mins active / 1 min easy",
+              "rest": "60s",
+              "targetMuscle": "Cardiorespiratory"
+            },
+            {
+              "name": "Dead Bug Core Holds",
+              "sets": 3,
+              "reps": "10 reps/side",
+              "rest": "45s",
+              "targetMuscle": "Transverse Abdominis"
+            },
+            {
+              "name": "Bird Dog with Pause",
+              "sets": 3,
+              "reps": "10 reps/side",
+              "rest": "45s",
+              "targetMuscle": "Lower Back & Glutes"
+            },
+            {
+              "name": "Side Plank Holds",
+              "sets": 3,
+              "reps": "30s/side",
+              "rest": "30s",
+              "targetMuscle": "Obliques"
+            }
+          ],
+          "cooldown": "Child’s pose, cobra stretch, standing side reaches",
+          "estimatedCaloriesBurned": 310
+        },
+        {
+          "dayNumber": 4,
+          "dayName": "Day 4: Muscular Endurance & Dynamic Balance",
+          "focus": "Muscular Endurance & Dynamic Balance",
+          "durationMinutes": 45,
+          "warmup": "Arm circles, hip rotations, bodyweight lunges",
+          "exercises": [
+            {
+              "name": "Dumbbell Thrusters (Squat to Press)",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "60s",
+              "targetMuscle": "Full Body"
+            },
+            {
+              "name": "Push-Ups (Standard or Incline)",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Core"
+            },
+            {
+              "name": "Dumbbell Bent-Over Row",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back"
+            },
+            {
+              "name": "Plank with Shoulder Taps",
+              "sets": 3,
+              "reps": "30 seconds",
+              "rest": "45s",
+              "targetMuscle": "Core Stability"
+            }
+          ],
+          "cooldown": "Hamstring stretch, quad stretch, full body relaxing breaths",
+          "estimatedCaloriesBurned": 340
+        },
+        {
+          "dayNumber": 5,
+          "dayName": "Day 5: Lats, Rhomboids, Hamstrings & Posterior Delts",
+          "focus": "Lats, Rhomboids, Hamstrings & Posterior Delts",
+          "durationMinutes": 45,
+          "warmup": "Band pull-aparts, torso twists, glute bridges",
+          "exercises": [
+            {
+              "name": "Lat Pulldowns or Resistance Band Pulls",
+              "sets": 4,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Lats"
+            },
+            {
+              "name": "Single-Leg Dumbbell RDL",
+              "sets": 3,
+              "reps": "10 reps/leg",
+              "rest": "60s",
+              "targetMuscle": "Hamstrings"
+            },
+            {
+              "name": "Face Pulls for Posture",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Rear Delts"
+            },
+            {
+              "name": "Hammer Curls",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "45s",
+              "targetMuscle": "Biceps & Forearms"
+            }
+          ],
+          "cooldown": "Pec stretch against doorframe, cat-cow mobility",
+          "estimatedCaloriesBurned": 330
+        },
+        {
+          "dayNumber": 6,
+          "dayName": "Day 6: Quads, Calves & Agility",
+          "focus": "Quads, Calves & Agility",
+          "durationMinutes": 40,
+          "warmup": "Ankle circles, deep squats, lateral monster walks",
+          "exercises": [
+            {
+              "name": "Bulgarian Split Squats or Step-Ups",
+              "sets": 3,
+              "reps": "10 reps/leg",
+              "rest": "60s",
+              "targetMuscle": "Quads & Glutes"
+            },
+            {
+              "name": "Kettlebell or Dumbbell Swings",
+              "sets": 4,
+              "reps": "15 reps",
+              "rest": "60s",
+              "targetMuscle": "Posterior Chain"
+            },
+            {
+              "name": "Farmer’s Walk Carry",
+              "sets": 3,
+              "reps": "40 seconds",
+              "rest": "60s",
+              "targetMuscle": "Grip & Core"
+            },
+            {
+              "name": "Seated or Standing Calf Raises",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Calves"
+            }
+          ],
+          "cooldown": "Couch stretch, calf wall stretch, diaphragmatic breathing",
+          "estimatedCaloriesBurned": 350
+        },
+        {
+          "dayNumber": 7,
+          "dayName": "Day 7: Joint Health, Flexibility & Central Nervous System Recovery",
+          "focus": "Joint Health, Flexibility & Central Nervous System Recovery",
+          "isRestDay": true,
+          "durationMinutes": 25,
+          "warmup": "Gentle walk or light stretching (5 mins)",
+          "exercises": [
+            {
+              "name": "World’s Greatest Stretch",
+              "sets": 2,
+              "reps": "6 reps/side",
+              "rest": "30s",
+              "targetMuscle": "Full Body Mobility"
+            },
+            {
+              "name": "Thoracic Spine Openers",
+              "sets": 2,
+              "reps": "8 reps/side",
+              "rest": "30s",
+              "targetMuscle": "Upper Spine"
+            },
+            {
+              "name": "Deep Diaphragmatic Breathing in Savasana",
+              "sets": 1,
+              "reps": "5 minutes",
+              "rest": "0s",
+              "targetMuscle": "Nervous System Reset"
+            }
+          ],
+          "cooldown": "Gentle hydration and posture check",
+          "estimatedCaloriesBurned": 110
+        }
+      ],
+      "tipsForSuccess": [
+        "Focus on steady consistency: aim to complete each of your selected workout days.",
+        "Stay well-hydrated throughout the day and listen to your body signals.",
+        "Maintain proper form on every repetition before considering increasing weight."
+      ]
+    },
+    "nutritionTip": {
+      "title": "Nutrition Strategy for Weight Loss & Fat Burn",
+      "coreAdvice": "Align your daily nutrition with your routine. For Weight Loss & Fat Burn, focus on whole foods, steady protein intake, and consistent hydration. Dietary preference: No restrictions (Balanced Whole Foods).",
+      "proteinRecommendation": "Aim for 1.4 to 1.8 grams of protein per kilogram of body weight spread across 3-4 meals to preserve and recover muscle fibers.",
+      "hydrationTip": "Drink 2.5 to 3 Liters of water daily. Keep a water bottle close during workouts and replenish with an extra 500ml on training days.",
+      "mealTiming": "Consume a light, carbohydrate-rich snack 45-60 minutes before training, and enjoy a balanced protein + complex carb meal within 90 minutes post-workout.",
+      "recoveryNote": "Target 7 to 8 hours of quality sleep nightly to optimize hormonal recovery and tissue repair.",
+      "suggestedFoods": [
+        "Lean Poultry or Fish",
+        "Eggs / Tofu",
+        "Greek Yogurt",
+        "Oatmeal",
+        "Berries",
+        "Quinoa",
+        "Leafy Greens",
+        "Almonds"
+      ]
+    },
+    "feedbackHistory": []
+  },
+  {
+    "userId": "FB-524206",
+    "email": "mkgccy45@gmail.com",
+    "fullName": "Kyotaka",
+    "age": "19",
+    "height": "172",
+    "weight": "65",
+    "gender": "Male",
+    "fitnessGoal": "Weight Loss & Fat Burn",
+    "fitnessLevel": "Beginner",
+    "planDays": 2,
+    "workoutLocation": "Commercial Gym (Full Equipment, Barbells, Machines)",
+    "dietaryPreference": "High Protein Focus",
+    "injuriesLimitations": "no",
+    "activityLevel": "Lightly Active (Occasional walks, light standing)",
+    "sleepHours": "Under 6 hours",
+    "createdAt": "2026-09-26T08:15:24.483Z",
+    "updatedAt": "2026-09-26T08:15:24.483Z",
+    "originalPlan": {
+      "title": "2-Day Personalized Routine (Weight Loss & Fat Burn)",
+      "totalDays": 2,
+      "weeklySplit": "2-Day targeted split designed for Weight Loss & Fat Burn at an Beginner level.",
+      "overview": "Custom-calibrated 2-day fitness plan for Kyotaka, targeting Weight Loss & Fat Burn. Structured with safe progressive overload, targeted warm-ups, and mobility cool-downs.",
+      "days": [
+        {
+          "dayNumber": 1,
+          "dayName": "Day 1: Chest, Upper Back & Shoulders",
+          "focus": "Chest, Upper Back & Shoulders",
+          "durationMinutes": 45,
+          "warmup": "5 mins arm swings, dynamic chest openers, cat-cow and band pulls",
+          "exercises": [
+            {
+              "name": "Dumbbell or Machine Chest Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Chest & Triceps",
+              "notes": "Maintain control on the descent"
+            },
+            {
+              "name": "Seated Cable or Dumbbell Row",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Upper Back & Lats",
+              "notes": "Squeeze shoulder blades at peak"
+            },
+            {
+              "name": "Overhead Dumbbell Shoulder Press",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Deltoids",
+              "notes": "Keep core engaged"
+            },
+            {
+              "name": "Incline Dumbbell Bicep Curls",
+              "sets": 3,
+              "reps": "12 reps",
+              "rest": "45s",
+              "targetMuscle": "Biceps"
+            }
+          ],
+          "cooldown": "Doorway chest stretch, cross-body shoulder hold, overhead triceps stretch (5 mins)",
+          "estimatedCaloriesBurned": 320
+        },
+        {
+          "dayNumber": 2,
+          "dayName": "Day 2: Quadriceps, Hamstrings & Glutes",
+          "focus": "Quadriceps, Hamstrings & Glutes",
+          "durationMinutes": 45,
+          "warmup": "5 mins leg swings, bodyweight air squats, hip 90/90 mobility drill",
+          "exercises": [
+            {
+              "name": "Goblet Squats or Barbell Squats",
+              "sets": 4,
+              "reps": "10 reps",
+              "rest": "75s",
+              "targetMuscle": "Quads & Glutes",
+              "notes": "Maintain chest up and feet flat"
+            },
+            {
+              "name": "Romanian Dumbbell Deadlifts",
+              "sets": 3,
+              "reps": "10-12 reps",
+              "rest": "60s",
+              "targetMuscle": "Hamstrings & Posterior Chain",
+              "notes": "Hinge at the hips with soft knees"
+            },
+            {
+              "name": "Walking Lunges or Step-Ups",
+              "sets": 3,
+              "reps": "10 steps/leg",
+              "rest": "60s",
+              "targetMuscle": "Legs & Core Balance"
+            },
+            {
+              "name": "Standing Calf Raises",
+              "sets": 3,
+              "reps": "15 reps",
+              "rest": "45s",
+              "targetMuscle": "Calves"
+            }
+          ],
+          "cooldown": "Standing quad stretch, seated hamstring stretch, butterfly stretch",
+          "estimatedCaloriesBurned": 350
+        }
+      ],
+      "tipsForSuccess": [
+        "Focus on steady consistency: aim to complete each of your selected workout days.",
+        "Stay well-hydrated throughout the day and listen to your body signals.",
+        "Maintain proper form on every repetition before considering increasing weight."
+      ]
+    },
+    "nutritionTip": {
+      "title": "Nutrition Strategy for Weight Loss & Fat Burn",
+      "coreAdvice": "Align your daily nutrition with your routine. For Weight Loss & Fat Burn, focus on whole foods, steady protein intake, and consistent hydration. Dietary preference: High Protein Focus.",
+      "proteinRecommendation": "Aim for 1.4 to 1.8 grams of protein per kilogram of body weight spread across 3-4 meals to preserve and recover muscle fibers.",
+      "hydrationTip": "Drink 2.5 to 3 Liters of water daily. Keep a water bottle close during workouts and replenish with an extra 500ml on training days.",
+      "mealTiming": "Consume a light, carbohydrate-rich snack 45-60 minutes before training, and enjoy a balanced protein + complex carb meal within 90 minutes post-workout.",
+      "recoveryNote": "Target 7 to 8 hours of quality sleep nightly to optimize hormonal recovery and tissue repair.",
+      "suggestedFoods": [
+        "Lean Poultry or Fish",
+        "Eggs / Tofu",
+        "Greek Yogurt",
+        "Oatmeal",
+        "Berries",
+        "Quinoa",
+        "Leafy Greens",
+        "Almonds"
+      ]
+    },
+    "feedbackHistory": []
+  }
+]
